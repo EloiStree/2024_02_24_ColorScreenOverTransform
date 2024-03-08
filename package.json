@@ -1,0 +1,23 @@
+
+{                                                                                
+  "name": "be.eloistree.colorscreenovertransform",                              
+  "displayName": "Color Screen Over Transform",                        
+  "version": "0.0.1",                         
+  "unity": "2018.1",                             
+  "unityRelease": "",                             
+  "description": "Allow to recover the color pixel over the transform in Unity3D (only on window).",                         
+  "keywords": ["Script","Tool"],                       
+  "dependencies":{},     
+  "relatedPackages":{},     
+  "samples" : [],     
+  "author" : {
+"name":"",
+"mail":"",
+"url":""},     
+  "repository":{
+"type":"Git",
+"url":"https://github.com/EloiStree/2024_02_24_ColorScreenOverTransform.git",
+"footprint":"",
+"revision":""},     
+  "category": "Script"                   
+} 

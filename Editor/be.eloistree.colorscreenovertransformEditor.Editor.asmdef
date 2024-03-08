@@ -1,0 +1,16 @@
+
+{                                                                   
+            "name": "be.eloistree.colorscreenovertransformEditor",          
+    "references": ["be.eloistree.colorscreenovertransform","be.eloistree.scratchtounity","be.eloistree.basicteachertoolbox"
+],                                                              
+    "optionalUnityReferences": [],                                  
+    "includePlatforms": [                                           
+        "Editor"                                                    
+    ],                                                              
+    "excludePlatforms": [],                                         
+    "allowUnsafeCode": false,                                       
+    "overrideReferences": false,                                    
+    "precompiledReferences": [],                                    
+    "autoReferenced": true,                                         
+    "defineConstraints": []                                         
+}                                                                   

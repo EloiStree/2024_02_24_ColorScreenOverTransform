@@ -1,7 +1,7 @@
 
 {                                                                   
-            "name": "be.eloistree.colorscreenovertransformEditor",          
-    "references": ["be.eloistree.colorscreenovertransform","be.eloistree.scratchtounity","be.eloistree.basicteachertoolbox"
+            "name": "be.elab.colorscreenovertransformEditor",          
+    "references": ["be.elab.colorscreenovertransform","be.elab.scratchtounity","be.elab.basicteachertoolbox"
 ],                                                              
     "optionalUnityReferences": [],                                  
     "includePlatforms": [                                           
